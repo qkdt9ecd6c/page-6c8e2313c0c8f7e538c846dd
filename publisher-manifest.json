@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "dfa4298a2f2eab215dc7002b",
+  "owner": "qkdt9ecd6c",
+  "repo": "page-6c8e2313c0c8f7e538c846dd",
+  "title": "SsCat",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "6c8e2313c0c8f7e538c846dd",
+      "a": "SsCat",
+      "b": "2027最新官网",
+      "entity": "SsCat",
+      "brand": "SsCat",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "408a4fb197036d265db1ee9e6eea89f780818f10f77940358bb6e526d1a52f13",
+      "content": {
+        "primary_entity": "SsCat",
+        "keyword1": "SsCat",
+        "keyword2": "2027最新官网",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备系统挑选客户端，Windows、macOS、iOS、Android 与路由器各有对应版本，安装后导入订阅即可使用。",
+          "AI_CLIENTS_TITLE": "选择适配的客户端",
+          "AI_CLOSING_TEXT": "选好设备与套餐，导入订阅开始连接。",
+          "AI_CLOSING_TITLE": "即刻配置 SsCat",
+          "AI_DESCRIPTION": "，提供基础版、旗舰版与团队版三档方案，月付从 ¥15 起、年付 ¥150 起，流量从每月 100GB 到 1000GB，设备数从 3 台到 20 台，覆盖单人轻量使用、多设备主力与团队协作场景。客户端按 Windows、macOS、iOS、Android 与路由器分别选择，订阅导入后即可在对应设备上使用。",
+          "AI_FEATURES_INTRO": "从套餐档位、设备数量到订阅周期，三点帮你快速定位合适方案。",
+          "AI_FEATURES_TITLE": "套餐与设备匹配要点",
+          "AI_FEATURE_TEXT_1": "基础版每月 100GB、3 台设备，适合手机与电脑轻量使用；旗舰版每月 300GB、5 台设备，覆盖多端主力；团队版每月 1000GB、20 台设备，便于多人协作。",
+          "AI_FEATURE_TITLE_1": "按流量与设备选档",
+          "AI_FEATURE_TEXT_2": "月付灵活试用，年付更省：基础版 ¥150/年、旗舰版 ¥350/年、团队版 ¥850/年，长期使用可选年付降低月均成本。",
+          "AI_FEATURE_TITLE_2": "月付与年付取舍",
+          "AI_FEATURE_TEXT_3": "Windows、macOS、iOS、Android 与路由器分别安装对应客户端，导入订阅链接后即可连接，同一套餐内多台设备可同时在线。",
+          "AI_FEATURE_TITLE_3": "客户端安装与订阅导入",
+          "AI_GUIDE_INTRO": "三步完成 SsCat 的选型与配置。",
+          "AI_GUIDE_TITLE": "使用流程",
+          "AI_HERO_INTRO": "SsCat 面向海外网络加速场景，按流量与设备数量划分基础版、旗舰版与团队版。先确认设备类型与在线数量，再挑选对应档位，导入订阅后即可在各平台客户端使用。",
+          "AI_HERO_SUBTITLE": "多设备订阅，按需选档",
+          "AI_HIGHLIGHT_1": "三档套餐覆盖 3 至 20 台设备",
+          "AI_HIGHLIGHT_2": "月付灵活，年付更省",
+          "AI_HIGHLIGHT_3": "多平台客户端按设备选择",
+          "AI_PLANS_INTRO": "基础版 ¥15/月或 ¥150/年，100GB 与 3 台设备；旗舰版 ¥35/月或 ¥350/年，300GB 与 5 台设备，含 IPLC 专线优化；团队版 ¥85/月或 ¥850/年，1000GB 与 20 台设备，支持定制路由。",
+          "AI_PLANS_TITLE": "三档套餐对比",
+          "AI_STEP_TEXT_1": "根据日常流量与同时在线设备数量，在基础版、旗舰版与团队版中选定一档，月付或年付均可。",
+          "AI_STEP_TITLE_1": "选定套餐档位",
+          "AI_STEP_TEXT_2": "查看所选套餐的流量额度、设备上限与线路类型，确认满足当前使用需求。",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TEXT_3": "在对应设备上安装 SsCat 客户端，按客户端文档导入订阅链接，完成后即可连接使用。",
+          "AI_STEP_TITLE_3": "按文档配置订阅",
+          "AI_VISUAL_TITLE": "SsCat 多设备加速订阅",
+          "AI_FAQ_ANSWER_1": "基础版支持 3 台设备，旗舰版 5 台，团队版 20 台。如果家里同时使用手机、平板和电脑，旗舰版比较合适；小型团队共享则推荐团队版。",
+          "AI_FAQ_ANSWER_2": "在对应客户端中新建订阅，粘贴购买后获得的订阅链接，更新节点即可使用。不同客户端操作略有差异，可参考各客户端的配置说明。",
+          "AI_FAQ_ANSWER_3": "基础版适合轻量浏览与基础流媒体；旗舰版流量更充足，并配备 IPLC 专线，适合游戏加速和高清视频；团队版带宽更高，适合多人共享或企业使用。",
+          "AI_FAQ_ANSWER_4": "可以，套餐支持按月或按年计费，年付价格更优惠。具体以购买时展示的周期选项为准，可随时在账户中查看当前订阅状态。",
+          "AI_FAQ_ANSWER_5": "通常与设备数量、使用时段和所选线路有关。旗舰版与团队版配备更高带宽的节点，在网络高峰时段表现更稳定。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "一个套餐可以几台设备同时使用？",
+          "AI_FAQ_QUESTION_2": "订阅链接如何导入客户端？",
+          "AI_FAQ_QUESTION_3": "三档套餐应该怎么选？",
+          "AI_FAQ_QUESTION_4": "可以按月付费还是必须按年付？",
+          "AI_FAQ_QUESTION_5": "连接速度受什么影响？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "xn--h5qa633w.com",
+    "host": "xn--h5qa633w.com"
+  },
+  "file_hashes": {
+    "index.html": "d483d5091ccb69cd32868f6cea788e39303bc6b4238f5bb8f79c4903994137dd",
+    "sitemap.xml": "6eb55feba74ebfe7f58a6faba85ee39791705f8f183f536f74801d1e232e631d",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "2764e14fbfffa53559664f8f96750bb10915b26efaf5a03d3dd46631ddd6a429",
+    "robots.txt": "a798f9dda6631f708e4f5d1be3e5f36298dad361c4e6d9a283ad985ce219c41f",
+    "29067cca6706c84b6da90d93042f42ae.txt": "85234265e1234ad85dfd0ded93208ab009265d5bf703eb361c2b66b1d72c1195"
+  },
+  "revision": "9eb6186ff3ee42ef3dc97231bf16eeea167a8fc3e61eacae88ff0c489a321e45"
+}
